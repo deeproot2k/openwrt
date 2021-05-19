@@ -1,0 +1,6 @@
+[submodule "package/package/luci-theme-argon"]
+	path = package/package/luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon.git
+[submodule "package/package/luci-app-argon-config"]
+	path = package/package/luci-app-argon-config
+	url = https://github.com/jerrykuku/luci-app-argon-config.git
